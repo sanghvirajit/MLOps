@@ -1,0 +1,15 @@
+artifact_uri: /Users/rajitsanghvi/Library/CloudStorage/OneDrive-OPEDGMBH/General/01_Github/MLOps/02-experiment-tracking/homework/mlruns/511338898570457616/ee3c15a507664426afaadd444c21e15c/artifacts
+end_time: 1716361943626
+entry_point_name: ''
+experiment_id: '511338898570457616'
+lifecycle_stage: active
+run_id: ee3c15a507664426afaadd444c21e15c
+run_name: polite-kit-317
+run_uuid: ee3c15a507664426afaadd444c21e15c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716361941945
+status: 3
+tags: []
+user_id: rajitsanghvi

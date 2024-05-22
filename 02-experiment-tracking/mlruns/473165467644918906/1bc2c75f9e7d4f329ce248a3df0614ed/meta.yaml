@@ -1,0 +1,15 @@
+artifact_uri: /Users/rajitsanghvi/Library/CloudStorage/OneDrive-OPEDGMBH/General/01_Github/MLOps/02-experiment-tracking/mlruns/473165467644918906/1bc2c75f9e7d4f329ce248a3df0614ed/artifacts
+end_time: 1716303312553
+entry_point_name: ''
+experiment_id: '473165467644918906'
+lifecycle_stage: active
+run_id: 1bc2c75f9e7d4f329ce248a3df0614ed
+run_name: traveling-bee-591
+run_uuid: 1bc2c75f9e7d4f329ce248a3df0614ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716303287119
+status: 3
+tags: []
+user_id: rajitsanghvi

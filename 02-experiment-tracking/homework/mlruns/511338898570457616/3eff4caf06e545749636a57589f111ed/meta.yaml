@@ -1,0 +1,15 @@
+artifact_uri: /Users/rajitsanghvi/Library/CloudStorage/OneDrive-OPEDGMBH/General/01_Github/MLOps/02-experiment-tracking/homework/mlruns/511338898570457616/3eff4caf06e545749636a57589f111ed/artifacts
+end_time: 1716361949648
+entry_point_name: ''
+experiment_id: '511338898570457616'
+lifecycle_stage: active
+run_id: 3eff4caf06e545749636a57589f111ed
+run_name: calm-lynx-802
+run_uuid: 3eff4caf06e545749636a57589f111ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716361947828
+status: 3
+tags: []
+user_id: rajitsanghvi

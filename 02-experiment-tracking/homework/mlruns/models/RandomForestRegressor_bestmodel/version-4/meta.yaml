@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1716366965849
+current_stage: None
+description: null
+last_updated_timestamp: 1716366965849
+name: RandomForestRegressor_bestmodel
+run_id: bbdd7d8b97a24b6fb1e020959f15cae8
+run_link: null
+source: /Users/rajitsanghvi/Library/CloudStorage/OneDrive-OPEDGMBH/General/01_Github/MLOps/02-experiment-tracking/homework/mlruns/736079622944935625/bbdd7d8b97a24b6fb1e020959f15cae8/artifacts/best_model
+status: READY
+status_message: null
+storage_location: /Users/rajitsanghvi/Library/CloudStorage/OneDrive-OPEDGMBH/General/01_Github/MLOps/02-experiment-tracking/homework/mlruns/736079622944935625/bbdd7d8b97a24b6fb1e020959f15cae8/artifacts/best_model
+user_id: null
+version: 4

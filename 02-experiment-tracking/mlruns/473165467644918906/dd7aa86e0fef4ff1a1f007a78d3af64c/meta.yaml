@@ -1,0 +1,15 @@
+artifact_uri: /Users/rajitsanghvi/Library/CloudStorage/OneDrive-OPEDGMBH/General/01_Github/MLOps/02-experiment-tracking/mlruns/473165467644918906/dd7aa86e0fef4ff1a1f007a78d3af64c/artifacts
+end_time: 1716303329580
+entry_point_name: ''
+experiment_id: '473165467644918906'
+lifecycle_stage: active
+run_id: dd7aa86e0fef4ff1a1f007a78d3af64c
+run_name: amazing-bird-625
+run_uuid: dd7aa86e0fef4ff1a1f007a78d3af64c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716303320957
+status: 3
+tags: []
+user_id: rajitsanghvi

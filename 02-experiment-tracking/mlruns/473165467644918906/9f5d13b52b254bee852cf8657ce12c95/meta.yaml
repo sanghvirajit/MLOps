@@ -1,0 +1,15 @@
+artifact_uri: /Users/rajitsanghvi/Library/CloudStorage/OneDrive-OPEDGMBH/General/01_Github/MLOps/02-experiment-tracking/mlruns/473165467644918906/9f5d13b52b254bee852cf8657ce12c95/artifacts
+end_time: 1716303623262
+entry_point_name: ''
+experiment_id: '473165467644918906'
+lifecycle_stage: active
+run_id: 9f5d13b52b254bee852cf8657ce12c95
+run_name: able-pug-363
+run_uuid: 9f5d13b52b254bee852cf8657ce12c95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716303610727
+status: 3
+tags: []
+user_id: rajitsanghvi

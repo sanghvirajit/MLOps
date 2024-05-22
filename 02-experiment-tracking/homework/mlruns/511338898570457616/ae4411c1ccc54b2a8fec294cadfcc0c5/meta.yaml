@@ -1,0 +1,15 @@
+artifact_uri: /Users/rajitsanghvi/Library/CloudStorage/OneDrive-OPEDGMBH/General/01_Github/MLOps/02-experiment-tracking/homework/mlruns/511338898570457616/ae4411c1ccc54b2a8fec294cadfcc0c5/artifacts
+end_time: 1716361946162
+entry_point_name: ''
+experiment_id: '511338898570457616'
+lifecycle_stage: active
+run_id: ae4411c1ccc54b2a8fec294cadfcc0c5
+run_name: languid-wolf-175
+run_uuid: ae4411c1ccc54b2a8fec294cadfcc0c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716361944918
+status: 3
+tags: []
+user_id: rajitsanghvi

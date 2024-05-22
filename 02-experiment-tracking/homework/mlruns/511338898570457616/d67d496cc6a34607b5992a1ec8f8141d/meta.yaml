@@ -1,0 +1,15 @@
+artifact_uri: /Users/rajitsanghvi/Library/CloudStorage/OneDrive-OPEDGMBH/General/01_Github/MLOps/02-experiment-tracking/homework/mlruns/511338898570457616/d67d496cc6a34607b5992a1ec8f8141d/artifacts
+end_time: 1716361936213
+entry_point_name: ''
+experiment_id: '511338898570457616'
+lifecycle_stage: active
+run_id: d67d496cc6a34607b5992a1ec8f8141d
+run_name: skillful-whale-890
+run_uuid: d67d496cc6a34607b5992a1ec8f8141d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716361932824
+status: 3
+tags: []
+user_id: rajitsanghvi

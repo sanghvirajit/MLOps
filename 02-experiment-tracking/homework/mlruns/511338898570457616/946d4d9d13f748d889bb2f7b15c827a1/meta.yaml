@@ -1,0 +1,15 @@
+artifact_uri: /Users/rajitsanghvi/Library/CloudStorage/OneDrive-OPEDGMBH/General/01_Github/MLOps/02-experiment-tracking/homework/mlruns/511338898570457616/946d4d9d13f748d889bb2f7b15c827a1/artifacts
+end_time: 1716361931726
+entry_point_name: ''
+experiment_id: '511338898570457616'
+lifecycle_stage: active
+run_id: 946d4d9d13f748d889bb2f7b15c827a1
+run_name: nimble-fawn-425
+run_uuid: 946d4d9d13f748d889bb2f7b15c827a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716361929772
+status: 3
+tags: []
+user_id: rajitsanghvi

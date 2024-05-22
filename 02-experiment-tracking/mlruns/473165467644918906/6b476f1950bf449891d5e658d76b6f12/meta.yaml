@@ -1,0 +1,15 @@
+artifact_uri: /Users/rajitsanghvi/Library/CloudStorage/OneDrive-OPEDGMBH/General/01_Github/MLOps/02-experiment-tracking/mlruns/473165467644918906/6b476f1950bf449891d5e658d76b6f12/artifacts
+end_time: 1716303042222
+entry_point_name: ''
+experiment_id: '473165467644918906'
+lifecycle_stage: active
+run_id: 6b476f1950bf449891d5e658d76b6f12
+run_name: funny-wasp-435
+run_uuid: 6b476f1950bf449891d5e658d76b6f12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716303023101
+status: 3
+tags: []
+user_id: rajitsanghvi

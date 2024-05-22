@@ -1,0 +1,15 @@
+artifact_uri: /Users/rajitsanghvi/Library/CloudStorage/OneDrive-OPEDGMBH/General/01_Github/MLOps/02-experiment-tracking/mlruns/473165467644918906/f8a51cf4d0c1455c83e642e48147e05e/artifacts
+end_time: 1716303263971
+entry_point_name: ''
+experiment_id: '473165467644918906'
+lifecycle_stage: active
+run_id: f8a51cf4d0c1455c83e642e48147e05e
+run_name: bold-sheep-651
+run_uuid: f8a51cf4d0c1455c83e642e48147e05e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716303243176
+status: 3
+tags: []
+user_id: rajitsanghvi

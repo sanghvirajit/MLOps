@@ -1,0 +1,15 @@
+artifact_uri: /Users/rajitsanghvi/Library/CloudStorage/OneDrive-OPEDGMBH/General/01_Github/MLOps/02-experiment-tracking/homework/mlruns/736079622944935625/8185404fd3384229bb068fe195c0b281/artifacts
+end_time: 1716367357012
+entry_point_name: ''
+experiment_id: '736079622944935625'
+lifecycle_stage: active
+run_id: 8185404fd3384229bb068fe195c0b281
+run_name: secretive-bat-523
+run_uuid: 8185404fd3384229bb068fe195c0b281
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716367353879
+status: 3
+tags: []
+user_id: rajitsanghvi

@@ -1,0 +1,16 @@
+artifact_uri: /Users/rajitsanghvi/Library/CloudStorage/OneDrive-OPEDGMBH/General/01_Github/MLOps/02-experiment-tracking/homework/mlruns/736079622944935625/a5985244db7148cdac852b1653964a4b/artifacts
+deleted_time: 1716366949331
+end_time: 1716366611881
+entry_point_name: ''
+experiment_id: '736079622944935625'
+lifecycle_stage: deleted
+run_id: a5985244db7148cdac852b1653964a4b
+run_name: learned-rook-379
+run_uuid: a5985244db7148cdac852b1653964a4b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716366609792
+status: 3
+tags: []
+user_id: rajitsanghvi

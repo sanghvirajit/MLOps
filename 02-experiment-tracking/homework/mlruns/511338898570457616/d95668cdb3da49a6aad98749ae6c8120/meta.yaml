@@ -1,0 +1,15 @@
+artifact_uri: /Users/rajitsanghvi/Library/CloudStorage/OneDrive-OPEDGMBH/General/01_Github/MLOps/02-experiment-tracking/homework/mlruns/511338898570457616/d95668cdb3da49a6aad98749ae6c8120/artifacts
+end_time: 1716361929770
+entry_point_name: ''
+experiment_id: '511338898570457616'
+lifecycle_stage: active
+run_id: d95668cdb3da49a6aad98749ae6c8120
+run_name: resilient-sheep-96
+run_uuid: d95668cdb3da49a6aad98749ae6c8120
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716361929475
+status: 3
+tags: []
+user_id: rajitsanghvi

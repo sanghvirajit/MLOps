@@ -1,0 +1,15 @@
+artifact_uri: /Users/rajitsanghvi/Library/CloudStorage/OneDrive-OPEDGMBH/General/01_Github/MLOps/02-experiment-tracking/mlruns/473165467644918906/fc063b6f57c0464d99b75a4bdb645af5/artifacts
+end_time: 1716323356788
+entry_point_name: ''
+experiment_id: '473165467644918906'
+lifecycle_stage: active
+run_id: fc063b6f57c0464d99b75a4bdb645af5
+run_name: wise-hound-812
+run_uuid: fc063b6f57c0464d99b75a4bdb645af5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716323325429
+status: 3
+tags: []
+user_id: rajitsanghvi

@@ -1,0 +1,15 @@
+artifact_uri: /Users/rajitsanghvi/Library/CloudStorage/OneDrive-OPEDGMBH/General/01_Github/MLOps/02-experiment-tracking/mlruns/473165467644918906/d77a68420d3c45a490389711ddb999aa/artifacts
+end_time: 1716303629785
+entry_point_name: ''
+experiment_id: '473165467644918906'
+lifecycle_stage: active
+run_id: d77a68420d3c45a490389711ddb999aa
+run_name: vaunted-hare-305
+run_uuid: d77a68420d3c45a490389711ddb999aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716303623268
+status: 3
+tags: []
+user_id: rajitsanghvi

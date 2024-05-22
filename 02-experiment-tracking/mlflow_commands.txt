@@ -1,0 +1,11 @@
+mlflow ui --port 5001
+
+# register model
+mlflow.log_artifact("mymodel", artifact_path="models/")
+mlflow.register_model(<model_uri>, <model_name>)
+mlflow.<framework>.log_model(model, artifact_path="models/")
+
+# Loading model
+logged_model = 'runs:/1a1c78f87a274675b3fe95c8054cb5b5/models_mlflow'
+loaded_model = mlflow.pyfunc.load_model(logged_model)
+xgboost_model = mlflow.<framework>.load_model(logged_model)
