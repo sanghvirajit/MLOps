@@ -1,5 +1,5 @@
 # Tracking server
-mlflow ui --port 5001
+mlflow ui --port 8080 --backend-store-uri sqlite:///mlruns.db
 mlflow server --backend-store-uri sqlite:///my.db
 mlflow server \
     --host 0.0.0.0 \
