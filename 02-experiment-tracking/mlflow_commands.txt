@@ -1,5 +1,11 @@
+# Tracking server
 mlflow ui --port 5001
-
+mlflow server --backend-store-uri sqlite:///my.db
+mlflow server \
+    --host 0.0.0.0 \
+    --port 8885 \
+    --artifacts-destination s3://my-bucket
+    
 # register model
 mlflow.log_artifact("mymodel", artifact_path="models/")
 mlflow.register_model(<model_uri>, <model_name>)
