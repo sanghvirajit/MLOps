@@ -1,5 +1,6 @@
 import batch
 import pandas as pd
+from deepdiff import DeepDiff
 from datetime import datetime
 
 def dt(hour, minute, second=0):
@@ -24,6 +25,26 @@ def test_prepare_date():
     categorical = ['PULocationID', 'DOLocationID']
 
     actual_output = batch.prepare_date(df, categorical).shape[0]
+
     expected_output = 2
+
+    # expected_data = [
+    #     ("-1", "-1", dt(1, 2), dt(1, 10), 9.0),
+    #     ("1", "1", dt(1, 2), dt(1, 10), 8.0),
+    # ]
+
+    # expected_columns = [
+    #     "PUlocationID",
+    #     "DOlocationID",
+    #     "pickup_datetime",
+    #     "dropOff_datetime",
+    #     "duration",
+    # ]
+    # expected_df = pd.DataFrame(expected_data, columns=expected_columns)
+
+    # diff = DeepDiff(actual_output.to_dict(), expected_df.to_dict(), significant_digits=1)
+    # print(f"diff={diff}")
+
+    # assert not diff
 
     assert actual_output == expected_output

@@ -8,6 +8,11 @@ month = 1
 input_file = f'https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_{year:04d}-{month:02d}.parquet'
 output_file = f's3://nyc-duration/in/{year:04d}-{month:02d}.parquet'
 
+# Environment variables
+# export INPUT_FILE_PATTERN="s3://nyc-duration/in/{year:04d}-{month:02d}.parquet"
+# export OUTPUT_FILE_PATTERN="s3://nyc-duration/out/{year:04d}-{month:02d}.parquet"
+# export S3_ENDPOINT="http://localhost:4566"
+
 # aws localstack interation commands
 # aws --endpoint-url=http://localhost:4566 s3 mb s3://nyc-duration
 # aws --endpoint-url=http://localhost:4566 s3 ls  
